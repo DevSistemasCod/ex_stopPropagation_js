@@ -1,0 +1,14 @@
+#caixa {
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  text-align: center;
+  display: flex; /* Define um contêiner flexível */
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+}
+
+#meuBotao {
+  padding: 5px;
+  font-size: 20px;
+}
